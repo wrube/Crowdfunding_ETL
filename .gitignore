@@ -1,5 +1,5 @@
 .DS_Store
-Resources/*ipynb
+Starter_Files*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
