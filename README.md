@@ -19,7 +19,7 @@ For the ETL mini project, we work with a partner/group to practise building an E
 - Input data files:
   - `Resources/crowdfunding.xlsx`
   - `Resources/contacts.xlsx`
-- Python Jupyter notebook: `ETL_Mini_Project.ipynb`
+- Python Jupyter notebook: `ETL_Mini_Project_BWruck.ipynb`
 - Extracted and cleansed csv files:
   - `Resources/campaign.csv`
   - `Resources/category.csv`
